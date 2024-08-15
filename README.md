@@ -13,4 +13,4 @@ Navigate to the Dashboard tab to view and filter information by NBA teams.
 Explore the Player Information tab to access detailed statistics for individual players.
 Review the Cleaned Data tab, which contains the processed original data used to generate the dashboard’s insights.
 Acknowledgements
-This project utilizes the Kaggle dataset available at NBA Play-by-Play Data (1997-2023), which provided the foundational data for analysis and visualization.
+This project utilizes the Kaggle dataset available at [NBA Play-by-Play Data (1997-2023)](https://www.kaggle.com/datasets/szymonjwiak/nba-play-by-play-data-1997-2023), which provided the foundational data for analysis and visualization.
