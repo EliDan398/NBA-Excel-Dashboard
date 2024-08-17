@@ -1,7 +1,5 @@
 # NBA-Excel-Dashboard
 
-NBA 2023 Season Excel Dashboard
-
 Author: Eli Daniels
 
 Project Description
